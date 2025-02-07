@@ -2,3 +2,4 @@ ok
 sustainatech
 git status
 New file added for grp 10
+new line of textgyhyugyg added
