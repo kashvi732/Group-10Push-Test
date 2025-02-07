@@ -1,0 +1,4 @@
+ok
+sustainatech
+git status
+New file added for grp 10
